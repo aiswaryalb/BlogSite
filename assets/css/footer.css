@@ -1,0 +1,43 @@
+.footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.quote {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.contact {
+  margin-bottom: 10px;
+}
+
+.contact p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact p i {
+  margin-right: 5px;
+}
+
+.social-icons a {
+  color: #fff;
+  margin: 0 5px;
+}
+
+.social-icons a:hover {
+  color: #4398ec;
+}
+
+.social-icons i {
+  font-size: 20px;
+}
+
+.footer .copyright {
+  font-size: 18px;
+  margin-top: 10px;
+}
